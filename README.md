@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 <h1>Hi 👋, I'm Chihiro</h1>
 <h3>I am working as a front-end developer</h3>
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csakyo&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) |
-| ------------- | ------------- |
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=csakyo&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) 
